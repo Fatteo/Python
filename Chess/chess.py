@@ -1,19 +1,3 @@
-"""
-TO-DO LIST:
-- Check system
-- Checkmate
-- Draw system
-- End screen
-- Piece selecting system
-- Legal move displaying system
-- Piece style changing
-- Arrows
-- Last move displaying system
-- Eaten pieces displaying system
-- Stockfish implementing?
-- Socket connection? (only String exchange: name and position)
-"""
-
 import sys, os
 import pygame
 import pygame.mixer as Mixer
